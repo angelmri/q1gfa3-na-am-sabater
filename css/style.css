@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'CoffeCake';
     src: 
-        url('css/CoffeCake.otf') format('opentype');
+        url(CoffeCake.otf) format('opentype');
 }
 *{
     margin: 0px;
