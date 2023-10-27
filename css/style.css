@@ -52,7 +52,7 @@
     margin: 20vh;
     padding: 3vw;
     border: 2px solid rgba(21, 117, 16, 0.889);
-    background-image: url(/pics/bg.jpg);
+    background-image: url(../pics/bg.jpg);
     background-size: cover;
     font-size: 4vw;
 }
@@ -145,7 +145,7 @@
     text-align: center;
     margin: 3vw;
     border: 2px solid rgba(21, 117, 16, 0.889);
-    background-image: url(/pics/bg1.jpg);
+    background-image: url(../pics/bg1.jpg);
     background-size: cover;
 }
 .references h1{
